@@ -3,8 +3,6 @@
 <h1 align="center">Full Stack & Blockchain(EVM, Solana) Engineer</h1>
 
 <br clear="both" />
-
-
 <h2 align="center">Popular Software Tools & Programming Languages</h2>
 
 ###
