@@ -5,14 +5,6 @@
 ###
 
 <br clear="both" />
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=BTCoin23&theme=neon&hide_border=true&card_width=420"
-    width="45%"
-    alt="languages graph" />
-</div>
-
 ###
 
 <h2 align="center">Popular Software Tools & Programming Languages</h2>
